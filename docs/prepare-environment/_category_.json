@@ -1,8 +1,0 @@
-{
-  "label": "环境准备",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "在安装Apache Ambari前的一些基本环境准备工作。"
-  }
-}
